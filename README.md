@@ -1,4 +1,4 @@
 # Métricas de Vendas
- Projeto de Dados dos Aglomerados.
+ Projeto de Dados de Vendas.
 
  ![Alt text](image.png)
